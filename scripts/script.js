@@ -149,15 +149,3 @@ if(tabName === "services"){
     toggle.checked = false;
 });
 });
-
-
-
-
-
-
-
-
-
-
-
-

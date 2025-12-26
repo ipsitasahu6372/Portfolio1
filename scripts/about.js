@@ -1,3 +1,4 @@
+
 const aboutTabs = document.querySelectorAll(".tab");
 
 const aboutContent = document.querySelectorAll(".tab-content");
@@ -222,4 +223,4 @@ aboutTabs.forEach((tab)=>{
               }
         }
     });
-}); 
+});   

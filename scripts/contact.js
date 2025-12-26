@@ -1,4 +1,4 @@
-/* ================= CONTACT MEDIA ================= */
+
 
 const media = document.querySelector(".contact-media");
 
@@ -74,4 +74,4 @@ document
         console.error("EmailJS Error:", error);
         alert("❌ Failed to send message");
       });
-  });
+    });

@@ -123,14 +123,3 @@ const projectList = [
     };
 
     renderProject(currentIndex);
-
-
-
-
-
- 
- 
- 
- 
- 
-         
