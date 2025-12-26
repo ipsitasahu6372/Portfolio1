@@ -5,21 +5,21 @@ const media = document.querySelector(".contact-media");
 const contactList = [
   {
     id: 1,
-    icon: "fa-solid fa-phone",
+    icon: "ph ph-phone-call",
     name: "Phone",
     value: "+91 6372611860",
     href: "tel:+916372611860",
   },
   {
     id: 2,
-    icon: "fa-solid fa-envelope",
+    icon: "ph ph-envelope",
     name: "E-Mail",
     value: "ipsitasahu6372@gmail.com",
     href: "mailto:ipsitasahu6372@gmail.com",
   },
   {
     id: 3,
-    icon: "fa-solid fa-location-dot",
+    icon: "ph ph-map-pin-area",
     name: "Country",
     value: "India",
     href: "#",

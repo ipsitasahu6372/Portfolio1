@@ -1,11 +1,11 @@
 const toggle=document.getElementById('menu-toggle');
 
-if(toggle){
-    toggle.addEventListener("change",
-        () => {
-            document.body.classList.toggle
-            ("no-scroll",toggle.checked);
-        });
+if(toggle && toggle.checked){
+            document.body.classList.add
+            ("no-scroll");
+}else{
+      document.body.classList.remove
+            ("no-scroll");
 }
 const words = [
     "Developer",
